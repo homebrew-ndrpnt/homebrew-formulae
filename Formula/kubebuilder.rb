@@ -6,6 +6,7 @@ class Kubebuilder < Formula
 
   depends_on "etcd"
   depends_on "kubernetes-cli"
+  depends_on "kustomize"
 
   def install
     bin.install "bin/kube-apiserver", "bin/kubebuilder"
