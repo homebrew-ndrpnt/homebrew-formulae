@@ -1,8 +1,8 @@
 class Kubebuilder < Formula
   desc "SDK for building Kubernetes APIs using CRDs"
   homepage "https://book.kubebuilder.io"
-  url "https://go.kubebuilder.io/dl/2.0.0-rc.0/darwin/amd64"
-  sha256 "970c74143287731c60bb171a1c90f2fb18c99b5e989af38db0d5094b96ded02a"
+  url "https://go.kubebuilder.io/dl/2.0.0/darwin/amd64"
+  sha256 "4679b5d57c857a0d3c763e9eefb4c797804a184fcae7827a3ca9abc990accc70"
 
   depends_on "etcd"
   depends_on "kubernetes-cli"
