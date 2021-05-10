@@ -1,6 +1,6 @@
 cask "logseq-canary" do
   version "0.0.2"
-  sha256 "1508ce0bc8dd4a98bd1d9eca72d12dec988eb4942c38ea56779d4de2cabcad12"
+  sha256 "81306131aa5e1034fb7e282a99eba11f1e09a9a04f072e13cbdc7d3a5160fa42"
 
   url "https://github.com/logseq/logseq/releases/download/#{version}/logseq-darwin-x64-#{version}.dmg"
   name "logseq-canary"
