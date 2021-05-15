@@ -7,8 +7,6 @@ cask "logseq-canary" do
   desc "Privacy-first, open-source platform for knowledge sharing and management"
   homepage "https://github.com/logseq/logseq"
 
-  auto_updates true
-
   app "Logseq Canary.app"
 
   zap trash: [
