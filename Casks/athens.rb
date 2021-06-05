@@ -1,6 +1,6 @@
 cask "athens" do
-  version "1.0.0-beta.78"
-  sha256 "64a69c90d65a8042be4c0972206f77cc77f331df13743dc15a4df9f1e9ec032d"
+  version "1.0.0-beta.86"
+  sha256 "c850d78d8c8c212b8b9f41e3f599e1e5b200fbc1c31ca1972021ec88aa9d5f15"
 
   url "https://github.com/athensresearch/athens/releases/download/v#{version}/Athens-#{version}.dmg"
   appcast "https://github.com/athensresearch/athens/releases.atom"
